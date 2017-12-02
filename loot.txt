@@ -1,0 +1,589 @@
+1
+P228
+P228
+P228
+P228
+P228 
+P228 Sec
+Glock Sec
+Glock
+Glock
+Usp 
+Usp
+Usp
+Elite 
+Elite
+Deagle Kevlar Sec
+Deagle
+Five Seven Sec
+Five Seven
+Mac10
+Mac10
+TMP
+TMP
+MP5
+UMP45 Prim
+P90
+M3
+Galil Kevlar
+Galil
+AK Prim
+AK
+AK
+AK
+AK
+AK
+Scout Prim
+SG552
+AUG
+Machete
+Molotov
+HE
+HE
+HE
+Flash x 2
+Smoke
+Bandage x 3
+Bandage x 2
+Bandage
+Bandage
+Bandage
+Bandage
+Medkit
+Medkit
+Medkit
+Kevlar x 2
+Kevlar x 2
+Kevlar
+Kevlar
+Kevlar
+Kevlarhelm
+Kevlarhelm
+Prim x 2
+Prim
+Prim
+Prim
+Prim
+Sec x 2
+Sec
+Sec
+Sec
+Sec
+2
+P228
+P228
+USP Sec
+USP 
+USP
+Glock
+Glock
+Glock
+Elite
+Elite
+Five Seven
+Five Seven
+Five Seven
+Deagle Sec
+Deagle Sec
+Deagle
+Mac10
+TMP
+MP5
+UMP45
+P90
+P90
+M3
+Galil
+Famas Prim
+M4
+AK Prim Kevlar
+AK Kevlar
+AK Kevlar
+AK Kevlar
+AK
+AK
+SG552
+Scout Prim
+AWP
+AUG
+Machete Kevlar Bandage
+Machete
+Chainsaw
+HE x 2
+HE
+HE
+HE
+Flash x 2
+Flash x 2
+Molotov
+Molotov
+Bandage x 3
+Bandage x 3
+Bandage x 2
+Bandage
+Bandage
+Bandage
+Medkit
+Medkit
+Medkit
+Kevlar x 3
+Kevlar x 2
+Kevlar x 2
+Kevlar
+Kevlar
+Kevlarhelm
+Kevlarhelm
+Prim x 3
+Prim x 2
+Prim
+Prim
+Prim
+Sec x 3
+Sec x 2
+Sec
+Sec
+Sec
+3
+USP
+USP
+USP
+Elite sec
+Deagle sec
+Deagle sec
+Deagle sec sec
+Deagle sec sec
+Deagle
+Five Seven sec
+Five Seven
+MP5
+MP5
+TMP
+Mac10
+P90 prim
+P90
+P90
+M3
+XM
+Galil prim
+Galil
+Famas prim
+Famas prim
+M4 prim
+M4 kevlar
+M4
+AK prim
+AK prim kevlar
+AK prim
+AK prim
+AK kevlar
+AK
+SG552
+AWP
+Scout
+Scout prim
+AUG
+Machete Kevlar Bandage
+Machete Kevlar Bandage
+Shield Kevlarhelm
+Chainsaw
+Light Armor Prim
+HE x 2
+HE x 2
+HE Flash x 2 Smoke
+HE Flash x 2 Smoke
+Molotov Flash
+Molotov
+Gas
+Bandage x 4
+Bandage x 3
+Bandage x 2
+Bandage
+Bandage
+Bandage
+Medkit x 2
+Medkit
+Medkit
+Kevlar x 4
+Kevlar x 3
+Kevlar x 2
+Kevlar
+Kevlar
+Kevlarhelm x 2
+Kevlarhelm
+Prim x 4
+Prim x 3
+Prim x 2
+Prim
+Prim
+Sec x 4
+Sec x 3
+Sec x 2
+Sec
+Sec
+4
+Deagle sec sec
+Deagle sec sec 
+Deagle kevlarhelm
+Deagle kevlar
+Deagle
+Deagle
+MP5 prim
+MP5 prim
+MP5
+P90 prim
+P90 prim
+P90
+M3 Prim
+XM Prim
+Famas prim prim
+Famas prim prim
+Famas prim prim kevlar
+M4 prim kevlarhelm
+M4 prim kevlar
+M4 prim
+M4 USP sec
+AK prim prim kevlar
+AK prim prim kevlar
+AWP prim Deagle sec
+AWP prim Flash x 2 Smoke USP sec kevlar
+Scout Kevlarhelm prim
+AUG
+SG552
+Shield Machete HE
+Shield USP sec bandage
+Machete Five Seven sec sec kevlar bandage
+Light Armor Bandage
+Light Armor Bandage
+HE x 3 Flash x 2 Smoke
+HE x 3 Flash x 2 Smoke
+HE Molotov
+Molotov x 2
+Gas Gasmask
+Gas
+Bandage x 3
+Bandage x 3
+Bandage x 3
+Bandage x 3
+Bandage x 3
+Bandage x 3
+Medkit x 2
+Medkit 
+Kevlar x 3
+Kevlar x 3
+Kevlar x 2
+Kevlar x 2
+Kevlar x 2
+Kevlar x 2
+Kevlarhelm x 2
+Kevlarhelm
+Prim x 3
+Prim x 2
+Prim x 2
+Prim x 2
+Prim x 2
+Sec x 3 
+Sec x 2
+Sec x 2
+Sec x 2 
+Sec x 2
+Sec x 2
+5
+Deagle sec sec sec kevlar
+Deagle sec sec kevlar
+Deagle sec sec kevlar
+Deagle sec sec
+Deagle sec sec
+Deagle sec HE kevlar
+P90 Prim Prim Kevlarhelm
+P90 Prim Kevlar
+P90 Kevlarhelm
+P90
+M3 Prim Prim Kevlar
+XM Prim
+XM Prim
+M4 Prim Prim USP Sec Sec Kevlarhelm HE Flash
+M4 Prim Prim USP Sec Kevlarhelm HE
+M4 Prim Prim Kevlarhelm HE
+M4 Prim Prim kevlar
+M4 Prim Prim kevlar
+M4 Prim Prim
+AK Prim Prim Prim kevlar HE
+AK Prim Prim Prim kevlar
+AWP Prim Prim Five Seven Sec Sec Kevlarhelm HE Flash Smoke
+AWP Kevlarhelm Prim Prim Five Seven Sec HE
+AWP Kevlarhelm Prim Prim Bandage
+Scout Prim Prim Prim Kevlar
+AUG Prim Kevlar
+SG552 Prim Kevlar
+Shield Machete HE Flash Bandage Kevlar
+Shield Elite Sec Sec Medkit Kevlar
+Machete Medkit Kevlarhelm HE
+Light Armor Gasmask Medkit
+Light Armor Medkit
+HE x 4 Flash x 2 Smoke
+HE x 4 Flash x 2 Smoke
+HE x 2 Molotov x 2
+Molotov x 2
+Molotov x 2
+Gas x 2 Gasmask
+Gas x 2
+Bandage x 4
+Bandage x 4
+Bandage x 3
+Bandage x 3
+Bandage x 3
+Bandage x 3
+Medkit x 3
+Medkit x 2
+Kevlar x 4
+Kevlar x 3
+Kevlar x 3
+Kevlar x 3
+Kevlar x 2
+Kevlar x 2
+Kevlarhelm x 3
+Kevlarhelm x 2
+Prim x 4
+Prim x 3
+Prim x 3
+Prim x 2
+Prim x 2
+Sec x 4 
+Sec x 3
+Sec x 3
+Sec x 2 
+Sec x 2
+Sec x 2
+6
+Deagle sec sec sec kevlarhelm
+Deagle sec sec kevlarhelm
+Deagle sec sec kevlarhelm
+Deagle sec sec HE kevlar
+Deagle sec sec HE kevlar
+Deagle sec sec HE kevlar
+P90 Prim Prim Kevlarhelm USP sec
+P90 Prim Prim Kevlarhelm USP sec
+P90 Prim Kevlarhelm
+P90 Prim Kevlarhelm
+XM Prim Kevlar
+XM Prim Kevlar
+M4 Prim Prim Prim USP Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim USP Sec Sec Kevlarhelm HE x 2
+M4 Prim Prim Prim Kevlarhelm HE x 2
+M4 Prim Prim kevlarhelm
+M4 Prim Prim kevlarhelm
+M4 Prim Prim kevlarhelm
+AK Prim Prim Prim kevlarhelm HE
+AK Prim Prim Prim kevlarhelm HE
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Kevlarhelm x 2 Prim Prim Deagle Sec HE x 2 Medkit
+AWP Kevlarhelm Prim Prim Medkit HE x 2 USP Sec Sec
+Scout Prim Prim Prim Kevlarhelm USP sec HE
+AUG Prim Prim Prim Kevlar
+SG552 Prim Prim Prim Kevlar
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Kevlarhelm
+Shield Deagle Sec Sec Sec Medkit Kevlarhelm
+Machete Medkit Kevlarhelm x 2 HE x 2
+Light Armor Gasmask Medkit x 2 HE x 2
+Light Armor Medkit x 2 Gasmask
+HE x 5 Flash x 2 Smoke
+HE x 5 Flash x 2 Smoke
+HE x 4 Molotov x 2
+Molotov x 2
+Molotov x 2
+Molotov x 2
+Gas x 3 Gasmask
+Gas x 2
+Bandage x 4
+Bandage x 4
+Bandage x 4
+Bandage x 4
+Bandage x 4
+Bandage x 4
+Medkit x 3
+Medkit x 3
+Kevlar x 4
+Kevlar x 4
+Kevlar x 4
+Kevlar x 4
+Kevlar x 3
+Kevlar x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Prim x 4
+Prim x 4
+Prim x 4
+Prim x 3
+Prim x 3
+Sec x 4 
+Sec x 4
+Sec x 4
+Sec x 3 
+Sec x 3
+Sec x 3
+7
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+XM Prim Prim Kevlarhelm Smoke
+XM Prim Prim Kevlarhelm Smoke
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle kevlarhelm
+M4 Prim Prim Prim Deagle kevlarhelm
+M4 Prim Prim Prim Deagle kevlarhelm
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+Scout Prim Prim Prim Kevlarhelm USP sec HE
+AUG Prim Prim Prim Kevlarhelm USP sec
+SG552 Prim Prim Prim Kevlarhelm USP sec
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor
+Shield Deagle Sec Sec Sec Medkit Light armor
+Machete Medkit Kevlarhelm x 2 HE x 2
+Light Armor Gasmask Medkit x 2 HE x 2 Gas
+Light Armor Medkit x 2 Gasmask Gas HE
+HE x 5 Flash x 4 Smoke
+HE x 5 Flash x 4 Smoke
+HE x 5 Molotov x 2
+Molotov x 2
+Molotov x 2
+Molotov x 2
+Molotov x 2
+Gas x 3 Gasmask
+Gas x 3
+Bandage x 4 Medkit
+Bandage x 4 Medkit
+Bandage x 4 Medkit
+Medkit x 3
+Medkit x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Prim x 4
+Prim x 4
+Prim x 4
+Prim x 3
+Prim x 3
+8
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+XM Prim Prim Prim Prim Kevlarhelm x 2 HE Smoke x 2 Flash x 2
+XM Prim Prim Prim Prim Kevlarhelm x 2 HE Smoke x 2 Flash x 2
+XM Prim Prim Prim Prim Kevlarhelm x 2 HE Smoke x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle kevlarhelm
+M4 Prim Prim Prim Deagle kevlarhelm
+M4 Prim Prim Prim Deagle kevlarhelm
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+HE x 5 Flash x 4 Smoke
+HE x 5 Flash x 4 Smoke
+HE x 5 Molotov x 2
+Molotov x 2
+Molotov x 2
+Molotov x 2
+Molotov x 2
+Gas x 3 Gasmask
+Gas x 3 Gasmask
+Bandage x 4 Medkit
+Bandage x 4 Medkit
+Bandage x 4 Medkit
+Medkit x 3
+Medkit x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Prim x 4
+Prim x 4
+Prim x 4
+Prim x 3
+Prim x 3
+9
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+Deagle sec sec sec HE kevlarhelm
+XM Prim Prim Prim Prim Kevlarhelm x 2 HE Smoke x 2 Flash x 2 Deagle Sec Sec Medkit
+XM Prim Prim Prim Prim Kevlarhelm x 2 HE Smoke x 2 Flash x 2 Deagle Sec Sec Medkit
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+M4 Prim Prim Prim Deagle Sec Sec Kevlarhelm HE x 2 Flash x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+HE x 5 Flash x 4 Smoke
+HE x 5 Flash x 4 Smoke
+HE x 5 Molotov x 2
+HE x 5 Molotov x 2
+HE x 5 Molotov x 2
+HE x 5 Molotov x 2
+Gas x 3 Gasmask
+Gas x 3 Gasmask
+Bandage x 4 Medkit
+Bandage x 4 Medkit
+Medkit x 3
+Medkit x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Kevlarhelm x 3
+Prim x 4
+Prim x 4
+10
+Deagle sec sec sec HE Light armor
+Deagle sec sec sec HE Light armor
+Deagle sec sec sec HE Light armor
+Deagle sec sec sec HE Light armor
+XM Prim Prim Prim Prim Light armor HE x 2 Smoke x 2 Flash x 2 Deagle Sec Sec Sec Medkit x 2
+XM Prim Prim Prim Prim Light armor HE x 2 Smoke x 2 Flash x 2 Deagle Sec Sec Sec Medkit x 2
+M4 Prim Prim Prim Deagle Sec Sec Sec Light armor Gasmask HE x 2 Flash x 2 Smoke
+M4 Prim Prim Prim Deagle Sec Sec Sec Light armor Gasmask HE x 2 Flash x 2 Smoke
+M4 Prim Prim Prim Deagle Sec Sec Sec Light armor Gasmask HE x 2 Flash x 2 Smoke
+M4 Prim Prim Prim Deagle Sec Sec Sec Light armor Gasmask HE x 2 Flash x 2 Smoke
+M4 Prim Prim Prim Deagle Sec Sec Sec Light armor Gasmask HE x 2 Flash x 2 Smoke
+M4 Prim Prim Prim Deagle Sec Sec Sec Light armor Gasmask HE x 2 Flash x 2 Smoke
+Armor
+FN2000
+RPG
+Flamethrower
+Rocket Launcher
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+Shield Machete HE x 2 Flash x 2 Bandage x 3 Light armor Deagle Sec Sec Sec Gasmask
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+AWP Prim Prim Prim Deagle Sec Sec Sec Kevlarhelm x 2 HE x 2 Flash x 2 Smoke Bandage x 2
+HE x 5 Flash x 4 Smoke Molotov x 2 Gas x 3 Gasmask
+HE x 5 Flash x 4 Smoke Molotov x 2 Gas x 3 Gasmask
+HE x 5 Flash x 4 Smoke Molotov x 2 Gas x 3 Gasmask
+HE x 5 Flash x 4 Smoke Molotov x 2 Gas x 3 Gasmask
+Prim x 4 Sec x 4 Kevlarhelm x 3 Medkit x 3
+Prim x 4 Sec x 4 Kevlarhelm x 3 Medkit x 3
+Prim x 4 Sec x 4 Kevlarhelm x 3 Medkit x 3
